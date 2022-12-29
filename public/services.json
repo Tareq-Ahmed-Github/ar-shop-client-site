@@ -1,0 +1,32 @@
+[
+   {
+        "img": "https://i.ibb.co/0jPxFB5/walton-primo-gh8.jpg",
+        "title": "walton-primo-gh8",
+        "price": 10000
+    },
+   {
+        "img": "https://i.ibb.co/fYLytvB/walton-primo-f10.jpg",
+        "title": "walton-primo-f10",
+        "price": 12000
+    },
+   {
+        "img": "https://i.ibb.co/fNjR5kR/umidi-a49-pro.jpg",
+        "title": "umidi-a49-pro",
+        "price": 15000
+    },
+   {
+        "img": "https://i.ibb.co/NC2YyJc/titanic-t2-smart.jpg",
+        "title": "titanic-t2-smart",
+        "price": 11000
+    },
+   {
+        "img": "https://i.ibb.co/W37Z5fq/tecno-pop-6.jpg",
+        "title": "tecno-pop-6",
+        "price": 12500
+    },
+   {
+        "img": "https://i.ibb.co/NxghTdq/symphony-z47.jpg",
+        "title": "symphony-z47",
+        "price": 14500
+    }
+]

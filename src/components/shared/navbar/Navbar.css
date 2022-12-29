@@ -1,0 +1,14 @@
+.nav-section{
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+.nav-links{
+    text-decoration: none;
+    padding: 0 10px;
+    color: aqua;
+    font-weight: bold;
+}
