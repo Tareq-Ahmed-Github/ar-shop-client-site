@@ -49,7 +49,7 @@ const Services = () => {
         </div>
         <div className="text-center">
           <Link to="/addServices">
-            <Button variant="outline-warning mb-5 rounded-pill fw-bold">
+            <Button variant="outline-info mb-5 rounded-pill fw-bold">
               ADD NEW COLLECTION
             </Button>
           </Link>

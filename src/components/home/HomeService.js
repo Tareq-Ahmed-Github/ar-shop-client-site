@@ -1,8 +1,7 @@
 import React from "react";
-import "./Service.css";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
-const Service = ( props ) => {
+const HomeService = (props) => {
   const { _id, title, img, price } = props.service;
   const { handleDeleteService } = props;
   return (
@@ -12,7 +11,7 @@ const Service = ( props ) => {
       <p>Price: {price}</p>
 
       <div className="d-flex justify-content-center gap-2 mx-2">
-        <Link to={`/updateService/${_id}`}>
+        <Link to="/updateService">
           <button className="btn btn-info rounded-pill">Update</button>
         </Link>
         <button
@@ -26,4 +25,4 @@ const Service = ( props ) => {
   );
 };
 
-export default Service;
+export default HomeService;

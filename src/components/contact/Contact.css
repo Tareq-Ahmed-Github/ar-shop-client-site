@@ -1,0 +1,15 @@
+.contact-form{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.contact-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.send_button {
+    background-color: aqua;
+    font-weight: bold;
+    font-size: larger;
+    padding: 0 20px;
+}
